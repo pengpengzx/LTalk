@@ -32,7 +32,7 @@
 
 演示环节....
 
-
+样式资料：https://github.com/pengpengzx/my-tampermonkey-script/blob/main/GenerateText.js
 
 ## 结束
 
@@ -42,4 +42,6 @@
 
 
 谢谢大家！😁
+
+
 
