@@ -1,6 +1,6 @@
 # Tampermonkey🐒
 
-## 🐒是啥？
+## 🙈是啥？
 
 > Tampermonkey是一个捐赠软件的用户脚本管理器，可作为浏览器扩展。该软件使用户能够添加和使用用户脚本，这些脚本是可以用来修改网页的JavaScript程序。（机器翻译）
 
@@ -15,7 +15,7 @@
 
 
 
-## 🐒可以干啥?
+## 🙉可以干啥?
 
 你可以对网页插入任何javascript代码
 
@@ -26,7 +26,7 @@
 
 
 
-## 演示环节
+## 🙊演示环节
 
 首先下载安装
 
@@ -34,10 +34,10 @@
 
 样式资料：https://github.com/pengpengzx/my-tampermonkey-script/blob/main/GenerateText.js
 
-## 结束
+## 🐵结束
 
 - 如果你会写javascript，可以开始自己写油猴脚本了 🥰
-- 如果你不会写javascript，可以去找一个会写javascript的小伙伴给你写油猴脚本了(学是不可能学的😎) 
+- 如果你不会写javascript，可以去找一个会写javascript的小伙伴给你写油猴脚本了(自己学是不可以学的😎) 
 
 
 
